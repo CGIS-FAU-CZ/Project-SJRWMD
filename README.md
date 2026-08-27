@@ -46,13 +46,13 @@ Map of wetland communities in 2023 with a coverage of 88,016 acres.
 [Data link] (https://data-floridaswater.opendata.arcgis.com/datasets/ff6bfb8c8aaf49e18721a8f47a9b050e_27/about)
 
 ## Project Reports
-[Q1_2021_Report](Q1_2021_Report.pdf) 
-[Q2_2021_Report](Q2_2021_Report.pdf) 
-[Q3_2021_Report](Q3_2021_Report.pdf) 
-[Q1_2022_Report](Q1_2022_Report.pdf) 
-[Q2_2022_Report](Q2_2022_Report.pdf) 
-[Q3_2022_Report](Q3_2022_Report.pdf) 
-[Q4_2022_Report](Q4_2022_Report.pdf) 
+* [Q1_2021_Report](Q1_2021_Report.pdf)   
+* [Q2_2021_Report](Q2_2021_Report.pdf)   
+* [Q3_2021_Report](Q3_2021_Report.pdf)   
+* [Q1_2022_Report](Q1_2022_Report.pdf) 
+* [Q2_2022_Report](Q2_2022_Report.pdf) 
+* [Q3_2022_Report](Q3_2022_Report.pdf) 
+* [Q4_2022_Report](Q4_2022_Report.pdf) 
 
 ## Acknowledgement
 We are grateful that the District has provided this project as an opportunity for FAU’s graduate students: David Brodylo (PhD, graduated Summer 2023), Mizanur Rahman (PhD, graduated Summer 2025), Rabindra Parajuli (PhD, graduated Summer 2024), David Ramirez (MS, graduated Spring 2024), Madan Thapa Chhetri (MS, graduated Summer 2024), Abdullah Ai-Fazari (PhD, graduated Spring 2026), Sandip Rijal (PhD, ongoing), and Fiona Benzi (PhD, ongoing) to put their classroom learning into a real field project, allowing for the application of geospatial techniques, and generating industry level map products. Some students (Mizanur Rahman and Fiona Benzi) have been working on their thesis/dissertation based upon this project. We also would like to extend our gratitude to the District’s Project Manager, Dr. Dianne Hall, for her rich knowledge over the project area, patience to teach the students and PI to identify each community and understand their ecological significance, for providing detailed considerations and logistics for the field visit and improving the final map products and project report. District personnel Christy Akers, Kimberly Ponzio, Jodi Slater, Jonny Baker, Doug Voltolina, Graham Williams, and Chris O’Hara, and retired District employee Ken Snyder made the field survey a great success.
