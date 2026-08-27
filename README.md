@@ -1,4 +1,4 @@
-# Project-St. Johns River Water Management District
+# Project: Remote Sensing and Mapping of Plant Communities for the Preservation of Natural Systems (St. Johns River Water Management District)
 [Project Background](#project-background) | [Deliverables](#deliverables) | [Field Samples](#field-samples) | [Map Products](#map-products) | [Project Reports](#project-reports) | [Acknowledgement](#acknowledgement)
 
 
