@@ -1,7 +1,6 @@
 # Project-St. Johns River Water Management District
-*[Project Background](#background)  
-*[Project Deliverables](#deliverables)  
-*[Field Samples] (#Samples)  
+[Background](#background) | [Deliverables](#deliverables) | [Field Samples](#samples) | [Reports](#reports) | [Acknowledgement](#acknowledge) | [Contact](#contact)
+
 
 ## Project Background
 Funded by St. Johns River Water Management District (SJRWMD) (2020-2026), we developed an object-based machine learning ensemble approach to map wetland communities at multiple wetlands in central Florida managed by the District using 0.5-m WorldView-2/3 satellite imagery. We collected over 5000 field points, thousands of field photos, assisted with very high resolution drone data to generate reference samples to train the machine learning models. 
