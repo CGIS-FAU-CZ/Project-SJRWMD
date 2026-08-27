@@ -26,7 +26,17 @@ Hydric Hammock and Water
 
 <img width="974" height="630" alt="image" src="https://github.com/user-attachments/assets/e2884f72-57a7-4692-a2d9-a9728af0d5e6" />
 
-Pasture with Upland Hardwood mixed with Cabbage Palm Hammock 
+Pasture with Upland Hardwood mixed with Cabbage Palm Hammock
+
+## Map Products
+<img width="900" height="1201" alt="image" src="https://github.com/user-attachments/assets/d0d0385c-3764-456b-b2f2-af32d53059cc" />
+Map of wetland communities in 2022 with a coverage of 81,895 acres. Data link <https://data-floridaswater.opendata.arcgis.com/maps/17cdc7b7ac184725b0d9fd6682df8d6d>
+
+
+
+
+
+
 
 
 
