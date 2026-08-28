@@ -1,5 +1,5 @@
 # Remote Sensing and Mapping of Plant Communities for the Preservation of Natural Systems (2020-2026)
-[Project Background](#project-background) | [Deliverables](#deliverables) | [Field Samples](#field-samples) | [Map Products](#map-products) | [Project Reports](#project-reports) | [Acknowledgement](#acknowledgement)
+[Project Background](#background) | [Project Deliverables](#deliverables) | [Field Samples](#samples) | [Map Products](#products) | [Project Reports](#reports) | [Acknowledgement](#acknowledgement)
 
 ## Project Background
 Funded by St. Johns River Water Management District (SJRWMD) (2020-2026), we developed an object-based machine learning ensemble approach to map wetland communities in central Florida using 0.5-m WorldView-2/3 satellite imagery. We collected thousands of field photos, points, and drone data to generate reference samples to train the machine learning models.  
@@ -8,9 +8,9 @@ Funded by St. Johns River Water Management District (SJRWMD) (2020-2026), we dev
 * Collected field points, photos with notes, drone orthophotos
 * Detailed tutorial of the workflow
 * QA//QC accuracy assessment
-* Quarterly reports
-## Field Samples  
+* Quarterly reports  
 
+## Field Samples  
 
 <img width="487" height="252" alt="image" src="https://github.com/user-attachments/assets/34925cbe-9e53-4601-9337-80dca8bd82f0" />  
 
