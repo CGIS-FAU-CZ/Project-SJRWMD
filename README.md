@@ -9,7 +9,7 @@ Funded by St. Johns River Water Management District (SJRWMD) (2020-2026), we dev
 * Detailed tutorial of the workflow
 * QA//QC accuracy assessment
 * Quarterly reports
-## Field Samples
+## Field Samples  
 <img width="487" height="252" alt="image" src="https://github.com/user-attachments/assets/34925cbe-9e53-4601-9337-80dca8bd82f0" />  
 
 Mixed Herbaceous marsh with Shrub Swamp  
