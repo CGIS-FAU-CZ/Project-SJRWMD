@@ -10,25 +10,25 @@ Funded by St. Johns River Water Management District (SJRWMD) (2020-2026), we dev
 * QA//QC accuracy assessment
 * Quarterly reports
 ## Field Samples
-<img width="487" height="252" alt="image" src="https://github.com/user-attachments/assets/34925cbe-9e53-4601-9337-80dca8bd82f0" />
+<img width="487" height="252" alt="image" src="https://github.com/user-attachments/assets/34925cbe-9e53-4601-9337-80dca8bd82f0" />  
 
-Mixed Herbaceous marsh with Shrub Swamp
+Mixed Herbaceous marsh with Shrub Swamp  
 
 <img width="487" height="300" alt="image" src="https://github.com/user-attachments/assets/43258273-1228-43d5-acab-5e2a3c9c871c" />
 
-Grass Sedge Marsh invaded by Willow Swamp
+Grass Sedge Marsh invaded by Willow Swamp  
 
 <img width="487" height="210" alt="image" src="https://github.com/user-attachments/assets/667209aa-b3cc-4226-870c-8b5cb9b44215" />
 
-Shrub Swamp, Water, Free Floating plants, and Cattail, Willow Swamp
+Shrub Swamp, Water, Free Floating plants, and Cattail, Willow Swamp 
 
 <img width="487" height="360" alt="image" src="https://github.com/user-attachments/assets/08810249-f891-4897-8b97-96234b8e2c71" />
 
-Hydric Hammock and Water
+Hydric Hammock and Water 
 
 <img width="487" height="315" alt="image" src="https://github.com/user-attachments/assets/e2884f72-57a7-4692-a2d9-a9728af0d5e6" />
 
-Pasture with Upland Hardwood mixed with Cabbage Palm Hammock
+Pasture with Upland Hardwood mixed with Cabbage Palm Hammock 
 
 ## Map Products
 <img width="450" height="600" alt="image" src="https://github.com/user-attachments/assets/d0d0385c-3764-456b-b2f2-af32d53059cc" />
@@ -45,7 +45,7 @@ Map of wetland communities in 2023 with a coverage of 88,016 acres.
 [Data link] (https://data-floridaswater.opendata.arcgis.com/datasets/ff6bfb8c8aaf49e18721a8f47a9b050e_27/about)
 
 <img width="450" height="650" alt="image" src="https://github.com/user-attachments/assets/b459aa21-e894-4be4-83b9-66a6f2370879" />  
-Map of wetland communities in 2024 with a coverage of 130,966 acres
+Map of wetland communities in 2024 with a coverage of 130,966 acres.
 
 ## Project Reports
 * [Q1_2021_Report](Q1_2021_Report.pdf)   
