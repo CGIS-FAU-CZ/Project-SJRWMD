@@ -10,23 +10,25 @@ Funded by St. Johns River Water Management District (SJRWMD) (2020-2026), we dev
 * QA//QC accuracy assessment
 * Quarterly reports
 ## Field Samples  
+
+
 <img width="487" height="252" alt="image" src="https://github.com/user-attachments/assets/34925cbe-9e53-4601-9337-80dca8bd82f0" />  
 
 Mixed Herbaceous marsh with Shrub Swamp  
 
- <img width="487" height="300" alt="image" src="https://github.com/user-attachments/assets/43258273-1228-43d5-acab-5e2a3c9c871c" />
+<img width="487" height="300" alt="image" src="https://github.com/user-attachments/assets/43258273-1228-43d5-acab-5e2a3c9c871c" />
 
 Grass Sedge Marsh invaded by Willow Swamp  
 
- <img width="487" height="210" alt="image" src="https://github.com/user-attachments/assets/667209aa-b3cc-4226-870c-8b5cb9b44215" />
+<img width="487" height="210" alt="image" src="https://github.com/user-attachments/assets/667209aa-b3cc-4226-870c-8b5cb9b44215" />
 
 Shrub Swamp, Water, Free Floating plants, and Cattail, Willow Swamp 
 
- <img width="487" height="360" alt="image" src="https://github.com/user-attachments/assets/08810249-f891-4897-8b97-96234b8e2c71" />
+<img width="487" height="360" alt="image" src="https://github.com/user-attachments/assets/08810249-f891-4897-8b97-96234b8e2c71" />
 
 Hydric Hammock and Water 
 
- <img width="487" height="315" alt="image" src="https://github.com/user-attachments/assets/e2884f72-57a7-4692-a2d9-a9728af0d5e6" />
+<img width="487" height="315" alt="image" src="https://github.com/user-attachments/assets/e2884f72-57a7-4692-a2d9-a9728af0d5e6" />
 
 Pasture with Upland Hardwood mixed with Cabbage Palm Hammock 
 
