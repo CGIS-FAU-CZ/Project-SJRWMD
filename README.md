@@ -1,33 +1,32 @@
-# Project: Remote Sensing and Mapping of Plant Communities for the Preservation of Natural Systems (St. Johns River Water Management District)
+# Remote Sensing and Mapping of Plant Communities for the Preservation of Natural Systems (2020-2026)
 [Project Background](#project-background) | [Deliverables](#deliverables) | [Field Samples](#field-samples) | [Map Products](#map-products) | [Project Reports](#project-reports) | [Acknowledgement](#acknowledgement)
 
-
 ## Project Background
-Funded by St. Johns River Water Management District (SJRWMD) (2020-2026), we developed an object-based machine learning ensemble approach to map wetland communities at multiple wetlands in central Florida managed by the District using 0.5-m WorldView-2/3 satellite imagery. We collected over 5000 field points, thousands of field photos, assisted with very high resolution drone data to generate reference samples to train the machine learning models. 
+Funded by St. Johns River Water Management District (SJRWMD) (2020-2026), we developed an object-based machine learning ensemble approach to map wetland communities in central Florida using 0.5-m WorldView-2/3 satellite imagery. We collected thousands of field photos, points, and drone data to generate reference samples to train the machine learning models.  
 ## Project Deliverables
-* Detailed tutorial of the workflow
-* Collected field points, photos with notes, drone orthophotos
 * Map products
+* Collected field points, photos with notes, drone orthophotos
+* Detailed tutorial of the workflow
 * QA//QC accuracy assessment
 * Quarterly reports
 ## Field Samples
-<img width="974" height="504" alt="image" src="https://github.com/user-attachments/assets/34925cbe-9e53-4601-9337-80dca8bd82f0" />
+<img width="487" height="252" alt="image" src="https://github.com/user-attachments/assets/34925cbe-9e53-4601-9337-80dca8bd82f0" />
 
 Mixed Herbaceous marsh with Shrub Swamp
 
-<img width="974" height="601" alt="image" src="https://github.com/user-attachments/assets/43258273-1228-43d5-acab-5e2a3c9c871c" />
+<img width="487" height="300" alt="image" src="https://github.com/user-attachments/assets/43258273-1228-43d5-acab-5e2a3c9c871c" />
 
 Grass Sedge Marsh invaded by Willow Swamp
 
-<img width="974" height="419" alt="image" src="https://github.com/user-attachments/assets/667209aa-b3cc-4226-870c-8b5cb9b44215" />
+<img width="487" height="210" alt="image" src="https://github.com/user-attachments/assets/667209aa-b3cc-4226-870c-8b5cb9b44215" />
 
 Shrub Swamp, Water, Free Floating plants, and Cattail, Willow Swamp
 
-<img width="974" height="731" alt="image" src="https://github.com/user-attachments/assets/08810249-f891-4897-8b97-96234b8e2c71" />
+<img width="487" height="360" alt="image" src="https://github.com/user-attachments/assets/08810249-f891-4897-8b97-96234b8e2c71" />
 
 Hydric Hammock and Water
 
-<img width="974" height="630" alt="image" src="https://github.com/user-attachments/assets/e2884f72-57a7-4692-a2d9-a9728af0d5e6" />
+<img width="487" height="315" alt="image" src="https://github.com/user-attachments/assets/e2884f72-57a7-4692-a2d9-a9728af0d5e6" />
 
 Pasture with Upland Hardwood mixed with Cabbage Palm Hammock
 
